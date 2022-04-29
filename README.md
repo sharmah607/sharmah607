@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-End Web Development
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 Reach me on Discord: Email- https://discordapp.com/users/KenKaneki#6571
+- 📫 Reach me on Discord: https://discordapp.com/users/KenKaneki#6571
 
 <!---
 sharmah607/sharmah607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
