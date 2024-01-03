@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Sharma
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 Reach me on Discord: https://discordapp.com/users/KenKaneki#6571
 
